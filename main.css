@@ -1,3 +1,5 @@
+/***** NAV *****/
+
 .nav a {
     color: #5a5a5a;
     font-size: 11px;
@@ -9,6 +11,9 @@
 .nav li {
     display: inline;
 }
+
+
+/***** JUMBOTRON *****/
 
 .jumbotron {
     background-image:url('http://goo.gl/04j7Nn');
@@ -34,6 +39,9 @@
     color: #fff;
 }
 
+
+/***** GUIDES *****/
+
 .neighborhood-guides {
     background-color: #efefef;
     border-bottom: 1px solid #dbdbdb;
@@ -48,6 +56,9 @@
     font-size: 15px;
     margin-bottom: 13px;
 }
+
+
+/***** LEARN MORE *****/
 
 .learn-more {
     background-color: #f7f7f7;
